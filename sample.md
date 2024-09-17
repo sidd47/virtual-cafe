@@ -7,3 +7,5 @@ sample
 8th commit - main branch
 6th commit - feature2 branch
 7th commit - feature2 branch
+9th commit - feature3 branch
+10th commit - feature3 branch
