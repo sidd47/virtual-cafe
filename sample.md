@@ -8,3 +8,4 @@ sample
 7th commit - feature2 branch
 12th commit - feature2 branch
 13th commit - feature2 branch
+8th commit - main branch
