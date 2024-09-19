@@ -6,3 +6,5 @@ sample
 4th commit - main branch
 6th commit - feature2 branch
 7th commit - feature2 branch
+12th commit - feature2 branch
+13th commit - feature2 branch
